@@ -136,6 +136,3 @@ dioxide = int(dioxide, 2)
 
 #Should get 1007985 with my data
 print(oxygen * dioxide)
-################################################FAILED ANSWERS:################################################
-#PART 1: NONE
-#PART 2: 851840, 16752649 (less than this)
