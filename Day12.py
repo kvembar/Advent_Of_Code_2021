@@ -1,4 +1,4 @@
-#Day X: Description goes here
+#Day 12: Description goes here
 
 ################################################FUNCTIONS################################################
 
@@ -14,7 +14,7 @@ def parse(line):
 data = []
 
 #Sending raw data to the parser
-with open("DayX_input.txt","r") as f:
+with open("Day12_input.txt","r") as f:
     for line in f:
         data.append(parse(line))
         continue
