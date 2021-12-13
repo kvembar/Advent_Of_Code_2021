@@ -2,7 +2,7 @@
 #An efficiency problem. THE CRAB RETURNS WITH A VENGENANCE INDEED!
 #BUT I FUCKING GOT IT, AND I DIDN'T HAVE TO WAIT OVERNIGHT FOR IT TO RUN!
 
-#Explanation time: last year, the Crab card game was an efficiency problem much like this one.
+#Explanation time: last year, the Crab cup game was an efficiency problem much like this one.
 #I legitimately took the naive solution of my code and let it run overnight. 
 #No, I'm not joking and I have the repo to prove it.
 #I was fully ready to let this one run overnight like last time when Part 2 came,
